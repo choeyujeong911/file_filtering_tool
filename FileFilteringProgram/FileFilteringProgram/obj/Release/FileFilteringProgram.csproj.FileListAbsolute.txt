@@ -1,0 +1,12 @@
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.csproj.AssemblyReference.cache
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.Form1.resources
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.Form2.resources
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.Properties.Resources.resources
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.csproj.GenerateResource.cache
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.csproj.CoreCompileInputs.cache
+C:\FileFilteringProgram.exe.config
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.exe
+C:\Users\youje\OneDrive\바탕 화면\FileFilteringProgram\FileFilteringProgram\obj\Release\FileFilteringProgram.pdb
+C:\Users\youje\OneDrive\바탕 화면\test_org\FileFilteringProgram.exe.config
+C:\Users\youje\OneDrive\바탕 화면\test_org\FileFilteringProgram.exe
+C:\Users\youje\OneDrive\바탕 화면\test_org\FileFilteringProgram.pdb
