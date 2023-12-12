@@ -12,6 +12,7 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Xml.Linq;
 
+/* 비정상적인 종료(cnt 문제인 듯) 수정 필요 */
 namespace FileFilteringProgram
 {
     public partial class Form2 : Form
